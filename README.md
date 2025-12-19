@@ -1,2 +1,3 @@
 # GerenciamentoDeOnibus
-Projeto de programação 2 
+Projeto em java de programação 2, em que gerencia Onibus Escolar e salva IDs em arquivo.txt
+
